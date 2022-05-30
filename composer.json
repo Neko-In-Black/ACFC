@@ -1,5 +1,6 @@
 {
     "name": "neko.in.black/acf",
+    "type": "wordpress-plugin",
     "authors": [
         {
             "name": "Neko-In-Black",
